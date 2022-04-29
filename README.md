@@ -1,12 +1,9 @@
 # Predicting COVID Vaccination in Africa by the End of 2022
 
 ### Authors: 
-Michael Xiao
-michaelxiao1999@berkeley.edu
-Raj Dasani
-rajdasani@berkeley.edu
-Salil Goyal
-salilgoyal@berkeley.edu
+- Michael Xiao, michaelxiao1999@berkeley.edu
+- Raj Dasani, rajdasani@berkeley.edu
+- Salil Goyal, salilgoyal@berkeley.edu
 
 ### Question: 
 At the end of 2022, what percentage of Africa will have been fully vaccinated? Fully vaccinated is defined according to the brand of vaccine given.
